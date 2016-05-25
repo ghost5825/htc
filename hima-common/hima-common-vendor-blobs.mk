@@ -107,6 +107,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/hima-common/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/htc/hima-common/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/htc/hima-common/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
+    vendor/htc/hima-common/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/htc/hima-common/proprietary/lib/libscaler.so:system/lib/libscaler.so \
     vendor/htc/hima-common/proprietary/vendor/lib/libfastcvadsp_stub.so:system/vendor/lib/libfastcvadsp_stub.so \
     vendor/htc/hima-common/proprietary/vendor/lib/libflash_pmic.so:system/vendor/lib/libflash_pmic.so \
@@ -644,6 +645,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/hima-common/proprietary/lib64/libloc_core.so:system/lib64/libloc_core.so \
     vendor/htc/hima-common/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
     vendor/htc/hima-common/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
+    vendor/htc/hima-common/proprietary/lib64/librmnetctl.so:system/lib64/librmnetctl.so \
     vendor/htc/hima-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/htc/hima-common/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/htc/hima-common/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
